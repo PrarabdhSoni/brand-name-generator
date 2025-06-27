@@ -63,11 +63,11 @@ Step-by-step instructions on how to get your development environment running.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your_username/your_project.git](https://github.com/your_username/your_project.git)
+    git clone https://github.com/PrarabdhSoni/brand-name-generator.git
     ```
 2.  Navigate into the project directory
     ```sh
-    cd your_project
+    cd brand-name-generator
     ```
 3.  Install dependencies (example for Node.js/Python)
 
@@ -75,17 +75,3 @@ Step-by-step instructions on how to get your development environment running.
     npm install body-parser express path url
 
     ```
-
-4.  Set up environment variables (if any). You might mention creating a `.env` file from a `.env.example`.
-
-## Usage
-
-Provide examples of how to use your project. This could include code snippets, commands, or walkthroughs.
-
-```python
-# Example Python usage
-from your_project import some_function
-
-result = some_function("Hello, World!")
-print(result)
-```
