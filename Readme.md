@@ -11,12 +11,8 @@ Simple String Concatenation App
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+- [License](#brand-name-generator)
 - [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## About The Project
 
@@ -75,3 +71,10 @@ Step-by-step instructions on how to get your development environment running.
     npm install body-parser express path url
 
     ```
+
+## Contact Me
+
+Feel free to contact me 😊
+
+- Email: prarabdhsoni1@gmail.com
+- Linkedin: https://linkedin.com/in/prarabdh-soni
